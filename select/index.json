@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【音楽的同位体星界】エリカの憂い / ヰ世界情緒 feat. 星界",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-02-19T11:02:43.588967Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エリカの憂い  ヰ世界情緒 feat 星界",
+      "artist": "ヰ世界情緒 feat 星界",
+      "has_synced": false,
+      "path": "select/pl_01_エリカの憂い_ヰ世界情緒_feat_星界_ヰ世界情緒_feat_星界.txt"
+    }
+  ]
+}
